@@ -1,10 +1,10 @@
-## Olá eu sou Marcus Vinicius, Bem vindo ao meu perfil 
+## Olá eu sou Erick Ryan, Bem vindo ao meu perfil 
 Apaixonado por tecnologia e estudante de Desenvolvimento de Sistemas. Este repositório é onde compartilho meus projetos pessoais e acadêmicos.
 - 👨🏾‍🎓 Me graduando Analise e desenvolvimento de sistemas pela faculdade PUC - Minas
 - 🎯 Focado em me tornar Full Stack Developer
 
 ## Minhas Midias Sociais 📱
-[![linkedas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/marcus-vin%C3%ADcius-acosta67512)
+[![linkedas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-ryan-2a35b0376/)
 
 
 
