@@ -5,7 +5,7 @@ Apaixonado por tecnologia e estudante de Desenvolvimento de Sistemas. Este repos
 
 ## Minhas Midias Sociais 📱
 [![linkedas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/marcus-vin%C3%ADcius-acosta67512)
-[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_arcusv?igsh=MXZ1ajd5MzU5cHI4Yg%3D%3D&utm_source=qr)
+
 
 
 ### Estatísticas 📊 
